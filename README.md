@@ -131,3 +131,15 @@ Open the provided .pkt file.
 Explore topology, routing, VLANs, and firewall rules.
 
 Test configurations (e.g., ping, VoIP calls, SSH access).
+
+---
+
+👤 Author
+
+Developed by Saurav Pokhrel
+
+🎓 Postgraduate in Computer System Technology & Networking (Centennial College)
+
+🎓 Bachelor’s in Ethical Hacking & Cybersecurity (Coventry University)
+
+
